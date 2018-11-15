@@ -1,3 +1,6 @@
 # sqlite
 reserva/db.sqlite3
 reserva/reserva/__pycache__/
+
+# Visual studio code
+.vscode
